@@ -2,6 +2,7 @@ pgbackup
 ========
 
 CLI interface for backup of remote PostgreSQL DB to either local storage or S3.
+This was created as part of a learning exercise.
 
 Preparing the Developmnet
 -------------------------
